@@ -60,7 +60,7 @@ B.S. in Computer Science and Information Engineering (minor: Economics), GPA: 4.
 
 ## Awards
 ### Presidential Award, National Taiwan University (Spring'15)
-- This award is given to students with ranking top 5\% in the department
+- This award is given to students who ranked top 5\% in the department
 
 ### 7th place over 662 teams, KDD Cup 2018
 - Collected historical and forecasting weather information from World Weather and performed feature engineering.
@@ -69,8 +69,7 @@ B.S. in Computer Science and Information Engineering (minor: Economics), GPA: 4.
 ---
 
 ## Publication
-Y.-T. Yeh, T.-C. Lin, **H.-H. Cheng**, Y.-H. Deng, S.-Y Su, Y.-N. Chen (2019) "<a href="https://arxiv.org/pdf/1908.05067.pdf" target="_blank">Reactive Multi-Stage Feature Fusion for Multimodal Dialogue Modeling</a>
-" AAAI 2019, DSTC 7 Workshop
+Y.-T. Yeh, T.-C. Lin, **H.-H. Cheng**, Y.-H. Deng, S.-Y Su, Y.-N. Chen (2019) "<a href="https://arxiv.org/pdf/1908.05067.pdf" target="_blank">Reactive Multi-Stage Feature Fusion for Multimodal Dialogue Modeling</a>" AAAI 2019, DSTC 7 Workshop
 
 ---
 
