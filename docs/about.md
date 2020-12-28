@@ -79,4 +79,4 @@ Y.-T. Yeh, T.-C. Lin, **H.-H. Cheng**, Y.-H. Deng, S.-Y Su, Y.-N. Chen (2019) "<
 Austin, Texas
 
 ### Email
-hsiaohuacheng[at]utexas.edu
+hsiaohuacheng[at]utexas[dot]edu
