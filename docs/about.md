@@ -5,7 +5,7 @@ title: About
 
 I'm an incoming software development engineer at Amazon. Love learning new things and meeting new people.
 
-- Resume: [pdf](./assets/Resume.pdf)
+- Resume: <a href="./assets/Resume.pdf" target="_blank">pdf</a>
 - Skills: Python, Java, JavaScript, C/C++, HTML/CSS, Linux, SQL, Git, Database system, machine learning, deep learning, natural language processing
 
 ---
@@ -69,7 +69,8 @@ B.S. in Computer Science and Information Engineering (minor: Economics), GPA: 4.
 ---
 
 ## Publication
-Y.-T. Yeh, T.-C. Lin, **H.-H. Cheng**, Y.-H. Deng, S.-Y Su, Y.-N. Chen (2019) "[Reactive Multi-Stage Feature Fusion for Multimodal Dialogue Modeling](https://arxiv.org/pdf/1908.05067.pdf)" AAAI 2019, DSTC 7 Workshop
+Y.-T. Yeh, T.-C. Lin, **H.-H. Cheng**, Y.-H. Deng, S.-Y Su, Y.-N. Chen (2019) "<a href="https://arxiv.org/pdf/1908.05067.pdf" target="_blank">Reactive Multi-Stage Feature Fusion for Multimodal Dialogue Modeling</a>
+" AAAI 2019, DSTC 7 Workshop
 
 ---
 
